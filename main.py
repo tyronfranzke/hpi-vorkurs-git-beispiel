@@ -1,7 +1,5 @@
-# Eingabe einer positiven Ganzzahl
 n = int(input("Gib eine positive Ganzzahl ein: "))
 
-# Überprüfen, ob die Zahl 0 oder 1 ist
 if n == 0 or n == 1:
     flag = 1
 else:
